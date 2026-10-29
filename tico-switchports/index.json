@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "name": "SwitchPorts — Recent Native Ports",
+  "description": "Community-made and AI-assisted Switch native ports, sourced from robzilla10001/SwitchPorts. Original game data is not included; see each developer's instructions.",
+  "packages": [
+    {
+      "id": "mkdd-nx",
+      "name": "Mario Kart: Double Dash!!",
+      "category": "port",
+      "tags": [
+        "gamecube",
+        "native"
+      ],
+      "version": "v1.6.2",
+      "author": "digdat0",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/digdat0/mkdd-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/MKDD-NX",
+      "url": "https://github.com/digdat0/mkdd-nx/releases/download/v1.6.2/MKDD-NX.nro",
+      "size": 54304820,
+      "sha256": "10b099e7a3d235230dd516811bc610f134227c6c43d474a938faa0c3e112ec93"
+    },
+    {
+      "id": "conkerrecomp",
+      "name": "Conker's Bad Fur Day",
+      "category": "port",
+      "tags": [
+        "n64",
+        "native"
+      ],
+      "version": "RC1",
+      "author": "DomazinUS",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/DomazinUS/CBFD-Switch for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/ConkerRecomp",
+      "url": "https://github.com/DomazinUS/CBFD-Switch/releases/download/RC1/ConkerRecomp.nro",
+      "size": 20014574,
+      "sha256": "ee90d71e1833e7cb9b64b48741cfd7e6dc4b9f303cb0973afc0eab44f8102f26"
+    },
+    {
+      "id": "megaman64recompiled",
+      "name": "Mega Man 64",
+      "category": "port",
+      "tags": [
+        "n64",
+        "native"
+      ],
+      "version": "v0.9.1-nx",
+      "author": "adumah",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/adumah/MegaMan64Recomp-NX for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/MegaMan64Recompiled",
+      "url": "https://github.com/adumah/MegaMan64Recomp-NX/releases/download/v0.9.1-nx/MegaMan64Recompiled.nro",
+      "size": 16108745,
+      "sha256": "a2638acf0a549010707fb17c17fef9241f5f756b80e0b560a73d5283de7eebb1"
+    },
+    {
+      "id": "dusklight",
+      "name": "Twilight Princess — Alek's Ultimate NX",
+      "category": "port",
+      "tags": [
+        "gamecube",
+        "native"
+      ],
+      "version": "v1.0.0",
+      "author": "Alexgg1014",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/dusklight",
+      "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Twilight-Princess-Alek-s-Ultimate-NX-Edition/releases/download/v1.0.0/dusklight.nro",
+      "size": 178715205,
+      "sha256": "d8e471540af066878f4a73306cdb6b942901abd9a55dff01adefeffe6fb592d3"
+    },
+    {
+      "id": "simpsonsntsc",
+      "name": "The Simpsons: Hit & Run (NTSC)",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "v0.7.0",
+      "author": "Thorhax",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Thorhax/The-Simpsons-Hit-and-Run for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/simpsons",
+      "url": "https://github.com/Thorhax/The-Simpsons-Hit-and-Run/releases/download/v0.7.0/SimpsonsNTSC.nro",
+      "size": 48966915,
+      "sha256": "f51eef179a23bb862402cc57e36e6b668950549b500f555ef60a73fcc166c29a"
+    },
+    {
+      "id": "megamanx",
+      "name": "Mega Man X Recompiled",
+      "category": "port",
+      "tags": [
+        "snes",
+        "native"
+      ],
+      "version": "v1.2.0",
+      "author": "Thorhax",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Thorhax/MegaManX-NX for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/MegaManX",
+      "url": "https://github.com/Thorhax/MegaManX-NX/releases/download/v1.2.0/MegaManX.nro",
+      "size": 32598370,
+      "sha256": "75594b67f7949237f09a72f973283a62b2f3764ff4e6ba17e377e1a62008f6bb"
+    },
+    {
+      "id": "shaolinmonks",
+      "name": "Mortal Kombat: Shaolin Monks",
+      "category": "port",
+      "tags": [
+        "ps2",
+        "native"
+      ],
+      "version": "v0.3.1",
+      "author": "Thorhax",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Thorhax/ShaolinMonks-NX for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/shaolinmonks",
+      "url": "https://github.com/Thorhax/ShaolinMonks-NX/releases/download/v0.3.1/shaolinmonks.nro",
+      "size": 46490149,
+      "sha256": "5a9be3ba212c2bada0b99b1920bcae03ca2cca515cc644b861c13e64bb4fb91c"
+    },
+    {
+      "id": "street",
+      "name": "FIFA Street",
+      "category": "port",
+      "tags": [
+        "xbox",
+        "native"
+      ],
+      "version": "v0.1.0",
+      "author": "xsaja",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/xsaja/street-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/street-nx",
+      "url": "https://github.com/xsaja/street-nx/releases/download/v0.1.0/street.nro",
+      "size": 33813716,
+      "sha256": "e6464a7fc321964e5ac501c75f1e656d611761fe1189fc939c017e378b9defee"
+    },
+    {
+      "id": "usf4",
+      "name": "Ultra Street Fighter IV",
+      "category": "port",
+      "tags": [
+        "xbox360",
+        "native"
+      ],
+      "version": "v0.8.1",
+      "author": "Thorhax",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Thorhax/usf4-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/usf4-nx",
+      "url": "https://github.com/Thorhax/usf4-nx/releases/download/v0.8.1/usf4.nro",
+      "size": 56301831,
+      "sha256": "41cbf1bdf4bf4728474c154cbca94a9c801640066bc2c5db840c2fe242fc7622"
+    },
+    {
+      "id": "gta3",
+      "name": "Grand Theft Auto III",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "1.0.4",
+      "author": "mariob0y",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/mariob0y/gta3-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/gta3",
+      "url": "https://github.com/mariob0y/gta3-nx/releases/download/1.0.4/gta3.nro",
+      "size": 21644731,
+      "sha256": "5154978226e50d845761b4f533acf86dcd574521f2d474b6b70eea0bb3770661"
+    }
+  ]
+}
