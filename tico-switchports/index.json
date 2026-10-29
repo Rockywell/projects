@@ -182,6 +182,186 @@
       "url": "https://github.com/mariob0y/gta3-nx/releases/download/1.0.4/gta3.nro",
       "size": 21644731,
       "sha256": "5154978226e50d845761b4f533acf86dcd574521f2d474b6b70eea0bb3770661"
+    },
+    {
+      "id": "black",
+      "name": "BLACK",
+      "category": "port",
+      "tags": [
+        "xbox",
+        "native"
+      ],
+      "version": "v0.2.4",
+      "author": "gerisson1996",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/gerisson1996/BLACK-NX-PORT for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/black",
+      "url": "https://github.com/gerisson1996/BLACK-NX-PORT/releases/download/v0.2.4/black-0.2.4.nro",
+      "size": 29821575,
+      "sha256": "88e4a455236c2c80850cd81f070f944e8f33e1488880153011ad7aca8f09e887"
+    },
+    {
+      "id": "sa2",
+      "name": "Sonic Adventure 2",
+      "category": "port",
+      "tags": [
+        "xbox360",
+        "native"
+      ],
+      "version": "v1.0.4",
+      "author": "ChanseyIsTheBest",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/ChanseyIsTheBest/sa2-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/sa2-nx",
+      "url": "https://github.com/ChanseyIsTheBest/sa2-nx/releases/download/v1.0.4/sa2.nro",
+      "size": 48513643,
+      "sha256": "55cdcfd5c799c81ef1a398fc6b753b0d68ca7236c93e236de192030c09375e3d"
+    },
+    {
+      "id": "sh2-nx",
+      "name": "Silent Hill 2",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "v1.02",
+      "author": "cutarev",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/cutarev/sh2-nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/sh2-nx",
+      "url": "https://github.com/cutarev/sh2-nx/releases/download/v1.02/sh2-nx.nro",
+      "size": 39256120,
+      "sha256": "260d5e893eef06b38da38080a72108a9e58463cda5c9a489f5894ff24e18f41c"
+    },
+    {
+      "id": "nearchuckle_nx",
+      "name": "Far Cry",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "1.0.1",
+      "author": "artslay",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/artslay/NearChuckle_nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/NearChuckle_nx",
+      "url": "https://github.com/artslay/NearChuckle_nx/releases/download/1.0.1/NearChuckle_nx.nro",
+      "size": 46869167,
+      "sha256": "59f8b942b642f58cbd4749d49119c3221ba35f71bbec323010832185ea6a1a2a"
+    },
+    {
+      "id": "mc3_nx",
+      "name": "Modern Combat 3: Fallen Nation",
+      "category": "port",
+      "tags": [
+        "android",
+        "native"
+      ],
+      "version": "v1.0.1",
+      "author": "Kaays",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Kaays/mc3_nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/mc3_nx",
+      "url": "https://github.com/Kaays/mc3_nx/releases/download/v1.0.1/mc3_nx.nro",
+      "size": 5435339,
+      "sha256": "ff8ab8d428e2db2c0eb244c1b3640a82c5b5e0d110e554bfdaf97d8a941be3ea"
+    },
+    {
+      "id": "bm64recompiled",
+      "name": "Bomberman 64",
+      "category": "port",
+      "tags": [
+        "n64",
+        "native"
+      ],
+      "version": "v1.0.0",
+      "author": "paulodiasred",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/paulodiasred/BM64Switch for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch",
+      "url": "https://github.com/paulodiasred/BM64Switch/releases/download/v1.0.0/BM64Recompiled-v1.0.0.nro",
+      "size": 21399634,
+      "sha256": "e719cf22e5307dc8f4a9b9536330f407a3dd62fd6e170c2fbd45f2f849093351"
+    },
+    {
+      "id": "goldenballoon",
+      "name": "Diddy Kong Racing",
+      "category": "port",
+      "tags": [
+        "n64",
+        "native"
+      ],
+      "version": "1.2.1-nx",
+      "author": "boraeskicioglu",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/boraeskicioglu/goldenballoon_nx for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/goldenballoon",
+      "url": "https://github.com/boraeskicioglu/goldenballoon_nx/releases/download/1.2.1-nx/goldenballoon.nro",
+      "size": 7846558,
+      "sha256": "4c3c28df9f6d35985b69a8d3cb1b519a4376711cadda9164d97202a30cbdfe8c"
+    },
+    {
+      "id": "racewave46",
+      "name": "Wave Race 64",
+      "category": "port",
+      "tags": [
+        "n64",
+        "native"
+      ],
+      "version": "RC7",
+      "author": "DomazinUS",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/DomazinUS/RaceWave46-Switch for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/RaceWave46",
+      "url": "https://github.com/DomazinUS/RaceWave46-Switch/releases/download/RC7/RaceWave46.nro",
+      "size": 40134764,
+      "sha256": "03be74c5dcfee9ac599f58ae1ef4ce3d788ea0e71b7a6e5acd7c0fbf483e8678"
+    },
+    {
+      "id": "sheepdogwolf",
+      "name": "Sheep, Dog 'n' Wolf",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "v1.0.1",
+      "author": "adumah",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/adumah/SheepDogWolf-NX for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/sheepdogwolf",
+      "url": "https://github.com/adumah/SheepDogWolf-NX/releases/download/v1.0.1/sheepdogwolf.nro",
+      "size": 8110204,
+      "sha256": "268fa73703dc36d3cdde50db4c51de1ce7cb489b53e02d9fed8de54b37edace5"
+    },
+    {
+      "id": "avp_gold",
+      "name": "Aliens versus Predator Gold",
+      "category": "port",
+      "tags": [
+        "pc",
+        "native"
+      ],
+      "version": "v2026-nx",
+      "author": "Thorhax",
+      "tagline": "2026 native Nintendo Switch port",
+      "description": "Unofficial native Switch port. Requires game files from a copy you own; see https://github.com/Thorhax/AvP-Gold-NX-Modern for setup instructions. The Tico package installs only the port executable.",
+      "type": "nro",
+      "install": "switch/AvP_Gold",
+      "url": "https://github.com/Thorhax/AvP-Gold-NX-Modern/releases/download/v2026-nx/AvP_Gold.nro",
+      "size": 22886164,
+      "sha256": "5d5c043995ee4a6163308b4c57dabf315d88baf7b688229d063b0c046c2ae349"
     }
   ]
 }
