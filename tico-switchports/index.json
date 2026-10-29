@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "name": "SwitchPorts — Recent Native Ports",
-  "description": "Community-made and AI-assisted Switch native ports, sourced from robzilla10001/SwitchPorts. Original game data is not included; see each developer's instructions.",
+  "name": "SwitchPorts — Native Ports, Emulators & Homebrew",
+  "description": "Community-made native Switch ports, standalone emulators, applications and utilities. Direct NRO assets are pinned with verified release sizes and SHA-256 hashes. Original games, ROMs, BIOS and supporting files are not included; follow each developer's setup instructions.",
   "packages": [
     {
       "id": "mkdd-nx",
@@ -362,6 +362,635 @@
       "url": "https://github.com/Thorhax/AvP-Gold-NX-Modern/releases/download/v2026-nx/AvP_Gold.nro",
       "size": 22886164,
       "sha256": "5d5c043995ee4a6163308b4c57dabf315d88baf7b688229d063b0c046c2ae349"
+    },
+    {
+      "id": "jksv",
+      "name": "JKSV",
+      "category": "utility",
+      "tags": [
+        "save",
+        "backup"
+      ],
+      "version": "12/02/2025",
+      "author": "J-D-K",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from J-D-K/JKSV. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/J-D-K/JKSV for requirements and setup.",
+      "type": "nro",
+      "install": "switch/JKSV",
+      "url": "https://github.com/J-D-K/JKSV/releases/download/12/02/2025/JKSV.nro",
+      "size": 10130471,
+      "sha256": "a2b7f6372a4b81f3c3194aa6f96f2824bdea853b9a8ebf8c4a008d0d865a0cbf"
+    },
+    {
+      "id": "ftpd",
+      "name": "ftpd",
+      "category": "utility",
+      "tags": [
+        "files",
+        "ftp"
+      ],
+      "version": "v3.2.1",
+      "author": "mtheall",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from mtheall/ftpd. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/mtheall/ftpd for requirements and setup.",
+      "type": "nro",
+      "install": "switch/ftpd",
+      "url": "https://github.com/mtheall/ftpd/releases/download/v3.2.1/ftpd.nro",
+      "size": 1533963,
+      "sha256": "cc8b2b335ccbe1bf1215a29c4ef3698effc879d3ddde2c6c0de505d14bc39c90"
+    },
+    {
+      "id": "moonlight-switch",
+      "name": "Moonlight-Switch",
+      "category": "utility",
+      "tags": [
+        "streaming",
+        "pc"
+      ],
+      "version": "v1.5.0",
+      "author": "XITRIX",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from XITRIX/Moonlight-Switch. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/XITRIX/Moonlight-Switch for requirements and setup.",
+      "type": "nro",
+      "install": "switch/Moonlight-Switch",
+      "url": "https://github.com/XITRIX/Moonlight-Switch/releases/download/v1.5.0/Moonlight-Switch.nro",
+      "size": 17677907,
+      "sha256": "594167a17b587d3bf828ea3477afbe71c114b4ef5d25940ea4ca831788d0af69"
+    },
+    {
+      "id": "goldleaf",
+      "name": "Goldleaf",
+      "category": "utility",
+      "tags": [
+        "files",
+        "management"
+      ],
+      "version": "1.2.1",
+      "author": "XorTroll",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from XorTroll/Goldleaf. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/XorTroll/Goldleaf for requirements and setup.",
+      "type": "nro",
+      "install": "switch/Goldleaf",
+      "url": "https://github.com/XorTroll/Goldleaf/releases/download/1.2.1/Goldleaf.nro",
+      "size": 11875762,
+      "sha256": "4f05301db5d090d79bf04503af7e1eca587a60709c626e7e67f9e57b2fcc0017"
+    },
+    {
+      "id": "nxthemes-installer",
+      "name": "NXThemes Installer",
+      "category": "utility",
+      "tags": [
+        "themes",
+        "customization"
+      ],
+      "version": "nxt-3.0.2",
+      "author": "exelix11",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from exelix11/SwitchThemeInjector. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/exelix11/SwitchThemeInjector for requirements and setup.",
+      "type": "nro",
+      "install": "switch/NXThemesInstaller",
+      "url": "https://github.com/exelix11/SwitchThemeInjector/releases/download/nxt-3.0.2/NXThemesInstaller.nro",
+      "size": 10467778,
+      "sha256": "36ac0fac5477e08a176b2f155b8b3c170c1291004d943541348599bae8cf97a1"
+    },
+    {
+      "id": "green-nx",
+      "name": "green-nx",
+      "category": "utility",
+      "tags": [
+        "streaming",
+        "xcloud"
+      ],
+      "version": "v1.0.30",
+      "author": "rmrf404",
+      "tagline": "Nintendo Switch homebrew utility",
+      "description": "Direct NRO from rmrf404/green-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/rmrf404/green-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/green-nx",
+      "url": "https://github.com/rmrf404/green-nx/releases/download/v1.0.30/green-nx.nro",
+      "size": 23370911,
+      "sha256": "dc0e0c2d24e6544d2412b82cdc416b201f9a27dcd741f2c12d8c2231f10f9608"
+    },
+    {
+      "id": "pfbneo",
+      "name": "pFBN",
+      "category": "emulator",
+      "tags": [
+        "arcade",
+        "fbneo"
+      ],
+      "version": "v7.2",
+      "author": "Cpasjuste",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Cpasjuste/pemu. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Cpasjuste/pemu for requirements and setup.",
+      "type": "nro",
+      "install": "switch/pfbneo",
+      "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.2/pfbneo.nro",
+      "size": 72115697,
+      "sha256": "3304fa650f37c140611d9836a67da2cc75e62e62bb8316424f19d312e9f00e68"
+    },
+    {
+      "id": "pgba",
+      "name": "pGBA",
+      "category": "emulator",
+      "tags": [
+        "gba",
+        "handheld"
+      ],
+      "version": "v7.2",
+      "author": "Cpasjuste",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Cpasjuste/pemu. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Cpasjuste/pemu for requirements and setup.",
+      "type": "nro",
+      "install": "switch/pgba",
+      "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.2/pgba.nro",
+      "size": 31144928,
+      "sha256": "1b0f2f894b22d29dff33506beb6edf4caaa56f4d3676672ce98a24e035f5c07a"
+    },
+    {
+      "id": "pgen",
+      "name": "pGen",
+      "category": "emulator",
+      "tags": [
+        "genesis",
+        "sega"
+      ],
+      "version": "v7.2",
+      "author": "Cpasjuste",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Cpasjuste/pemu. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Cpasjuste/pemu for requirements and setup.",
+      "type": "nro",
+      "install": "switch/pgen",
+      "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.2/pgen.nro",
+      "size": 32539784,
+      "sha256": "a9ee19989b8925e25ad94eea762ccde48f9b2e6275226ca360788746b6187eac"
+    },
+    {
+      "id": "pnes",
+      "name": "pNES",
+      "category": "emulator",
+      "tags": [
+        "nes",
+        "8bit"
+      ],
+      "version": "v7.2",
+      "author": "Cpasjuste",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Cpasjuste/pemu. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Cpasjuste/pemu for requirements and setup.",
+      "type": "nro",
+      "install": "switch/pnes",
+      "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.2/pnes.nro",
+      "size": 32694687,
+      "sha256": "6f640a7d3c740229247fadf81b2700b951ad76c24ca940b77eceb5f3f9cdbe9f"
+    },
+    {
+      "id": "psnes",
+      "name": "pSNES",
+      "category": "emulator",
+      "tags": [
+        "snes",
+        "16bit"
+      ],
+      "version": "v7.2",
+      "author": "Cpasjuste",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Cpasjuste/pemu. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Cpasjuste/pemu for requirements and setup.",
+      "type": "nro",
+      "install": "switch/psnes",
+      "url": "https://github.com/Cpasjuste/pemu/releases/download/v7.2/psnes.nro",
+      "size": 32052730,
+      "sha256": "3343eb76f45498961cb53968451c35b20fb0ec7962060723dcad485cff6633e4"
+    },
+    {
+      "id": "flycast",
+      "name": "Flycast",
+      "category": "emulator",
+      "tags": [
+        "dreamcast",
+        "arcade"
+      ],
+      "version": "v2.7",
+      "author": "flyinghead",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from flyinghead/flycast. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/flyinghead/flycast for requirements and setup.",
+      "type": "nro",
+      "install": "switch/flycast",
+      "url": "https://github.com/flyinghead/flycast/releases/download/v2.7/flycast-2.7.nro",
+      "size": 31907635,
+      "sha256": "898bf81c24cdbcc1c95b3d7eccca059004c9887feb8628cb9f36444048b12678"
+    },
+    {
+      "id": "dekopon",
+      "name": "Dekopon",
+      "category": "emulator",
+      "tags": [
+        "3ds",
+        "nintendo"
+      ],
+      "version": "v2.2.2",
+      "author": "PalindromicBreadLoaf",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from PalindromicBreadLoaf/Dekopon. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/PalindromicBreadLoaf/Dekopon for requirements and setup.",
+      "type": "nro",
+      "install": "switch/dekopon",
+      "url": "https://github.com/PalindromicBreadLoaf/Dekopon/releases/download/v2.2.2/dekopon.nro",
+      "size": 36948012,
+      "sha256": "ef32eac7b358076c174effa76ba2c9bb482619660340b015c976fe2725efa883"
+    },
+    {
+      "id": "raikopon",
+      "name": "Raika Azahar",
+      "category": "emulator",
+      "tags": [
+        "3ds",
+        "nintendo"
+      ],
+      "version": "v2.5.0",
+      "author": "Raibatsu",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from Raibatsu/raikopon. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Raibatsu/raikopon for requirements and setup.",
+      "type": "nro",
+      "install": "switch/raikopon",
+      "url": "https://github.com/Raibatsu/raikopon/releases/download/v2.5.0/raikopon.nro",
+      "size": 45934357,
+      "sha256": "f790c1d81abf21af6d02cb5b350e254784349695688714a21846fff46eac4b33"
+    },
+    {
+      "id": "yokoi",
+      "name": "Yokoi",
+      "category": "emulator",
+      "tags": [
+        "game-and-watch",
+        "handheld"
+      ],
+      "version": "1.0.4",
+      "author": "1timewire1",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from 1timewire1/Yokoi_Game_-_Watch_emulator_switch. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch for requirements and setup.",
+      "type": "nro",
+      "install": "switch/yokoi",
+      "url": "https://github.com/1timewire1/Yokoi_Game_-_Watch_emulator_switch/releases/download/1.0.4/yokoi_switch.nro",
+      "size": 7782408,
+      "sha256": "7950682b4c6a1828ba90363e10ce378709bb384adf52fd10f6c0b70190dbf6ef"
+    },
+    {
+      "id": "model2-nx",
+      "name": "Model2 NX",
+      "category": "emulator",
+      "tags": [
+        "arcade",
+        "sega-model2"
+      ],
+      "version": "v1.0",
+      "author": "toniisound",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from toniisound/model2-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/toniisound/model2-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/model2nx",
+      "url": "https://github.com/toniisound/model2-nx/releases/download/v1.0/model2nx.nro",
+      "size": 52561935,
+      "sha256": "af964bbfac3174a05d77497098d58161aba1c4bf199f65df5786a245f4c220bf"
+    },
+    {
+      "id": "kirikiroid2-nx",
+      "name": "Kirikiroid2-NX",
+      "category": "app",
+      "tags": [
+        "visual-novels",
+        "engine"
+      ],
+      "version": "v1.0.1",
+      "author": "Erige005",
+      "tagline": "Nintendo Switch homebrew application",
+      "description": "Direct NRO from Erige005/Kirikiroid2-NX. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Erige005/Kirikiroid2-NX for requirements and setup.",
+      "type": "nro",
+      "install": "switch/Kirikiroid2-NX",
+      "url": "https://github.com/Erige005/Kirikiroid2-NX/releases/download/v1.0.1/Kirikiroid2-NX.nro",
+      "size": 42338934,
+      "sha256": "ce3c0169610eb2d65f332e26a16d14c283f9dcf39634dc4f46c2c004860919b8"
+    },
+    {
+      "id": "dolphin-nx",
+      "name": "Dolphin NX",
+      "category": "emulator",
+      "tags": [
+        "gamecube",
+        "wii"
+      ],
+      "version": "1.2.0",
+      "author": "NaGaa95",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from NaGaa95/dolphin-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/NaGaa95/dolphin-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/dolphin",
+      "url": "https://github.com/NaGaa95/dolphin-nx/releases/download/1.2.0/dolphin.nro",
+      "size": 98159988,
+      "sha256": "6b2945cf194295e473ecd1e47147c406887f33c1ed57416b890c656fe4a68b2b"
+    },
+    {
+      "id": "cemu-nx",
+      "name": "Cemu NX",
+      "category": "emulator",
+      "tags": [
+        "wiiu"
+      ],
+      "version": "1.3.0",
+      "author": "NaGaa95",
+      "tagline": "Standalone Nintendo Switch emulator",
+      "description": "Direct NRO from NaGaa95/Cemu-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/NaGaa95/Cemu-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/cemu",
+      "url": "https://github.com/NaGaa95/Cemu-nx/releases/download/1.3.0/cemu.nro",
+      "size": 128525410,
+      "sha256": "bbc53779078968d715677141b44d6f843a50dcaf2da500b2c83ba683a9ebd9df"
+    },
+    {
+      "id": "devilutionx",
+      "name": "DevilutionX",
+      "category": "port",
+      "tags": [
+        "pc",
+        "diablo"
+      ],
+      "version": "1.5.5",
+      "author": "diasurgical",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from diasurgical/devilutionX. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/diasurgical/devilutionX for requirements and setup.",
+      "type": "nro",
+      "install": "switch/devilutionx",
+      "url": "https://github.com/diasurgical/devilutionX/releases/download/1.5.5/devilutionx-switch.nro",
+      "size": 20887823,
+      "sha256": "4f9f06540f43f83d01d5b7b82e8848c6591681907f423990604b42731097c504"
+    },
+    {
+      "id": "zelda3-aleks-nx",
+      "name": "A Link to the Past — Alek's Ultimate NX",
+      "category": "port",
+      "tags": [
+        "snes",
+        "zelda"
+      ],
+      "version": "v1.3.0",
+      "author": "Alexgg1014",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition for requirements and setup.",
+      "type": "nro",
+      "install": "switch/zelda3",
+      "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-A-Link-To-The-Past-Alek-s-Ultimate-NX-Edition/releases/download/v1.3.0/Zelda3-ALEKS-NX.nro",
+      "size": 8854822,
+      "sha256": "bc6cb2945e454348bf3dd08c1c9bad8d3dafc70754023fbc82e6085f8737e0e1"
+    },
+    {
+      "id": "tmc-aleks-nx",
+      "name": "The Minish Cap — Alek's Ultimate NX",
+      "category": "port",
+      "tags": [
+        "gba",
+        "zelda"
+      ],
+      "version": "v2.0.1",
+      "author": "Alexgg1014",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition for requirements and setup.",
+      "type": "nro",
+      "install": "switch/tmc",
+      "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-The-Minish-Cap-Alek-s-Ultimate-NX-Edition/releases/download/v2.0.1/tmc_aleks_ultimate_nx.nro",
+      "size": 14915251,
+      "sha256": "dac59adb50fb90a62fd168f8d11f504d13a4b64df184691b6776adc038d95c5b"
+    },
+    {
+      "id": "ladxhd-aleks-nx",
+      "name": "Link's Awakening DX HD — Alek's Ultimate NX",
+      "category": "port",
+      "tags": [
+        "gameboy",
+        "zelda"
+      ],
+      "version": "v1.2.0",
+      "author": "Alexgg1014",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition for requirements and setup.",
+      "type": "nro",
+      "install": "switch/ProjectZ",
+      "url": "https://github.com/Alexgg1014/The-Legend-of-Zelda-Link-s-Awakening-DX-HD-Alek-s-Ultimate-NX-Edition/releases/download/v1.2.0/ProjectZ.Switch.nro",
+      "size": 53466484,
+      "sha256": "aea60fc69c68bcea32e1b319a05eeb25785a8a7f7c71f1c1b0250754e9e8c698"
+    },
+    {
+      "id": "metroid-zero-mission-nx",
+      "name": "Metroid: Zero Mission NX",
+      "category": "port",
+      "tags": [
+        "gba",
+        "metroid"
+      ],
+      "version": "nx-v1.3",
+      "author": "JJTapiaXX",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from JJTapiaXX/Metroid-Zero-Mission-NX. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX for requirements and setup.",
+      "type": "nro",
+      "install": "switch/mzmnx",
+      "url": "https://github.com/JJTapiaXX/Metroid-Zero-Mission-NX/releases/download/nx-v1.3/mzmnx.nro",
+      "size": 2493988,
+      "sha256": "e9803a5e50f6a25570434cdba874533fec04acf7d598f5e8fc62f38ae742c2dd"
+    },
+    {
+      "id": "oracles-nx",
+      "name": "Zelda: Oracle of Ages / Seasons",
+      "category": "port",
+      "tags": [
+        "gameboy",
+        "zelda"
+      ],
+      "version": "1.0",
+      "author": "toniisound",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from toniisound/oracles-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/toniisound/oracles-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/oracles",
+      "url": "https://github.com/toniisound/oracles-nx/releases/download/1.0/oracles.nro",
+      "size": 24867383,
+      "sha256": "05e95e3bec7cf0143a897bee95a757798a70b8e167ae972598eb664f94b7d3e6"
+    },
+    {
+      "id": "paperboat-nx",
+      "name": "Paper Mario — PaperBoat NX",
+      "category": "port",
+      "tags": [
+        "n64",
+        "paper-mario"
+      ],
+      "version": "v1.0.2",
+      "author": "Thorhax",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Thorhax/PaperBoat-NX-Modern. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Thorhax/PaperBoat-NX-Modern for requirements and setup.",
+      "type": "nro",
+      "install": "switch/paperboat",
+      "url": "https://github.com/Thorhax/PaperBoat-NX-Modern/releases/download/v1.0.2/paperboat.nro",
+      "size": 30212037,
+      "sha256": "1736b3103ac9240fc6f99c913db8b0acc31cb0625356c70c0dba12b26cae56f1"
+    },
+    {
+      "id": "quakespasm-nx",
+      "name": "Quake — Quakespasm NX",
+      "category": "port",
+      "tags": [
+        "pc",
+        "fps"
+      ],
+      "version": "v0.93.3-nx",
+      "author": "Thorhax",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Thorhax/Quakespasm-NX-Modern. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Thorhax/Quakespasm-NX-Modern for requirements and setup.",
+      "type": "nro",
+      "install": "switch/quakespasmnx",
+      "url": "https://github.com/Thorhax/Quakespasm-NX-Modern/releases/download/v0.93.3-nx/quakespasmnx.nro",
+      "size": 7745039,
+      "sha256": "4f21603dc7ea1c7bbc3f7abc307b9219cf4b9c313da349b4313c3d078e5e1b9f"
+    },
+    {
+      "id": "quake2-nx",
+      "name": "Quake II — NXQuake2",
+      "category": "port",
+      "tags": [
+        "pc",
+        "fps"
+      ],
+      "version": "v8.21-nx",
+      "author": "Thorhax",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Thorhax/Quake2-NX-Modern. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Thorhax/Quake2-NX-Modern for requirements and setup.",
+      "type": "nro",
+      "install": "switch/nxquake2",
+      "url": "https://github.com/Thorhax/Quake2-NX-Modern/releases/download/v8.21-nx/nxquake2.nro",
+      "size": 8669526,
+      "sha256": "3e5bfd2522091fc1de0ead3bf0d00f401e883a7f5ac103a462aebbd2ca7eeaad"
+    },
+    {
+      "id": "silent-hill1-nx",
+      "name": "Silent Hill (1999) NX",
+      "category": "port",
+      "tags": [
+        "ps1",
+        "horror"
+      ],
+      "version": "1.2.0",
+      "author": "DerilDX",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from DerilDX/silent-hill-decomp-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/DerilDX/silent-hill-decomp-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/SilentHillPC",
+      "url": "https://github.com/DerilDX/silent-hill-decomp-nx/releases/download/1.2.0/SilentHillPC.nro",
+      "size": 13171620,
+      "sha256": "50268ca1033fde03d9c09cc1222f4476a10b468255ec974ab0f75037bfe7dbe0"
+    },
+    {
+      "id": "silent-hill3-nx",
+      "name": "Silent Hill 3 NX",
+      "category": "port",
+      "tags": [
+        "pc",
+        "horror"
+      ],
+      "version": "v0.06",
+      "author": "cutarev",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from cutarev/sh3-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/cutarev/sh3-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/sh3-nx",
+      "url": "https://github.com/cutarev/sh3-nx/releases/download/v0.06/sh3-nx.nro",
+      "size": 34676792,
+      "sha256": "d010ac04f1a1e5b23d8c191e850cbc5456533bab5f4f8329e62e3c4f067a16f5"
+    },
+    {
+      "id": "supermariowar-nx",
+      "name": "Super Mario War NX",
+      "category": "port",
+      "tags": [
+        "multiplayer",
+        "platformer"
+      ],
+      "version": "v1.0.0",
+      "author": "brendongl",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from brendongl/supermariowar-nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/brendongl/supermariowar-nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/smw",
+      "url": "https://github.com/brendongl/supermariowar-nx/releases/download/v1.0.0/smw.nro",
+      "size": 62916275,
+      "sha256": "d601c8452000addaa3ad4e113473bad8f3a3dd785fa576129ff3f165715653db"
+    },
+    {
+      "id": "angry-birds-star-wars-2-nx",
+      "name": "Angry Birds Star Wars II NX",
+      "category": "port",
+      "tags": [
+        "android",
+        "puzzle"
+      ],
+      "version": "1.0.2",
+      "author": "markaurel13",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from markaurel13/abstarwars2_nx. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/markaurel13/abstarwars2_nx for requirements and setup.",
+      "type": "nro",
+      "install": "switch/abstarwars2_nx",
+      "url": "https://github.com/markaurel13/abstarwars2_nx/releases/download/1.0.2/abstarwars2_nx.nro",
+      "size": 4208681,
+      "sha256": "ab1b6d91cf08b7aa2363329b08aa0a02ded789f971b96f4a3d07924bb186d990"
+    },
+    {
+      "id": "sonic-r-nx",
+      "name": "Sonic R NX",
+      "category": "port",
+      "tags": [
+        "racing",
+        "sega"
+      ],
+      "version": "v1.0.1",
+      "author": "Thorhax",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from Thorhax/Sonic-R-NX-Modern. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/Thorhax/Sonic-R-NX-Modern for requirements and setup.",
+      "type": "nro",
+      "install": "switch/sonicr",
+      "url": "https://github.com/Thorhax/Sonic-R-NX-Modern/releases/download/v1.0.1/sonicr.nro",
+      "size": 7766239,
+      "sha256": "576f349f94620d78c475992cfd58c395370aa5dae25cef9c7263b617c70c09d4"
+    },
+    {
+      "id": "sonic-2006-nx",
+      "name": "Sonic the Hedgehog (2006) NX",
+      "category": "port",
+      "tags": [
+        "sonic",
+        "xbox360"
+      ],
+      "version": "1.0.3",
+      "author": "ChanseyIsTheBest",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from ChanseyIsTheBest/MarathonRecomp-NX. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/ChanseyIsTheBest/MarathonRecomp-NX for requirements and setup.",
+      "type": "nro",
+      "install": "switch/MarathonRecomp",
+      "url": "https://github.com/ChanseyIsTheBest/MarathonRecomp-NX/releases/download/1.0.3/MarathonRecomp.nro",
+      "size": 61419106,
+      "sha256": "1358a721b75bebf07193cb18f775f44bf820058ded03c1a3925dbf73b796a84a"
+    },
+    {
+      "id": "sonic-unleashed-nx",
+      "name": "Sonic Unleashed NX",
+      "category": "port",
+      "tags": [
+        "sonic",
+        "xbox360"
+      ],
+      "version": "1.0.0",
+      "author": "ChanseyIsTheBest",
+      "tagline": "Native Nintendo Switch game port",
+      "description": "Direct NRO from ChanseyIsTheBest/UnleashedRecomp-NX. Installs the executable only; game files, BIOS, firmware and other supporting files are not included. Follow https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX for requirements and setup.",
+      "type": "nro",
+      "install": "switch/UnleashedRecomp",
+      "url": "https://github.com/ChanseyIsTheBest/UnleashedRecomp-NX/releases/download/1.0.0/UnleashedRecomp.nro",
+      "size": 88712915,
+      "sha256": "93fd9fb722bb7399e739ed06e824ae6bba2bd0beacbf0dc405e93f066756cba1"
     }
   ]
 }
